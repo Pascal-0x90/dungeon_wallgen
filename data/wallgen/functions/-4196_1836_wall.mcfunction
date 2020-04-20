@@ -1,0 +1,1 @@
+fill -4194 11 1836 -4196 13 1836 minecraft:stone_bricks replace minecraft:air
